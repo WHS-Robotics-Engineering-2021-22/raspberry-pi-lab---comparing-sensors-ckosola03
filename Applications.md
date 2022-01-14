@@ -1,0 +1,1 @@
+The ultarsonic sensor which is a exteroceptive sensor because it reads its enviroment could be used to sense how far away one robots objective is. It could also sense if it is going to run into something.
